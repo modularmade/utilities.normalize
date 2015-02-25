@@ -1,0 +1,17 @@
+{
+  "name": "modularmade-normalize.css",
+  "version": "1.0.0",
+  "description": "Normalize.css",
+  "main": "_utilities.normalize.scss",
+  "keywords": [
+    "modularmade.css",
+    "oocss",
+    "css",
+    "normalize"
+  ],
+  "authors": [
+    "Eric Harms <modularmade@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/modularmade/utilities.normalize.git"
+}
